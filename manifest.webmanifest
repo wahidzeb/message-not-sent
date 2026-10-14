@@ -1,0 +1,42 @@
+{
+  "id": "/message-not-sent/",
+  "name": "Message Not Sent",
+  "short_name": "Not Sent",
+  "description": "Message Not Sent by Zaib: an interactive text-message story about a breakup and healing. Type, delete and rewrite your drafts, then decide what to send. 7 chapters and 5 endings. Free in your browser.",
+  "lang": "en",
+  "start_url": "/message-not-sent/?source=pwa",
+  "scope": "/message-not-sent/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2a2350",
+  "background_color": "#2a2350",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/message-not-sent/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/message-not-sent/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/message-not-sent/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/message-not-sent/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
