@@ -1,9 +1,4 @@
-# Message Not Sent by Zaib
+# Message Not Sent by Zaib (offline)
 
-A gentle, chat-style interactive story about a breakup and healing. Type a draft, delete it, rewrite it, and decide what you finally send. 8 chapters across three months, friends and family group chats, illustrated photos, voice notes, read receipts, a night mode that gets darker with the late hours, and 5 endings (Closure, Still Friends, Finding Me, Dear Me, Not Yet). Teen-safe, with short wellbeing tips.
-
-Single self-contained `index.html` (DOM + canvas art, WebAudio, no libraries).
-
-**Play (preview):** https://zaibgames.com/message-not-sent/
-
-Game by Zaib.
+This game is temporarily offline. The served page is a small "taking a break" page that points to https://zaibgames.com/.
+The full game is in this repo's history (last game commit 073487ba6ed5da809fb9d12ea389f8b8fece698b) and the source is in wahidzeb/zaib-games-source/message-not-sent.
